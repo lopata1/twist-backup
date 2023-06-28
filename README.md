@@ -1,2 +1,2 @@
 # Twist Backup
-Makes Twist backup in JSON format.
+Makes Twist workspace backup in JSON format.
